@@ -1,0 +1,12 @@
+
+build/
+.dart_tool/
+.flutter-plugins
+.packages
+.pub-cache
+.idea/
+android/.gradle/
+android/app/debug
+android/app/profile
+android/app/release
+*.iml
